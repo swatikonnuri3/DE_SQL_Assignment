@@ -79,16 +79,3 @@ USE ecommerce;
 SOURCE src/assignment_2/create.sql;
 SOURCE src/assignment_2/insert.sql;
 SOURCE src/assignment_2/result.sql;
-
-👉 **Save the file** (Ctrl + S)
-
----
-
-## ✅ STEP 4: Check Git Status
-
-```powershell
-git status
-You should see:
-
-Untracked files:
-  README.md
